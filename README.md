@@ -6,5 +6,5 @@ You can download the trained model from [here](https://drive.google.com/file/d/1
 
 I have used Kaggle dataset to train the model, [link](https://www.kaggle.com/msheriey/104-flowers-garden-of-eden) for the dataset.
 
-After training and validating the model I have used flask framework to develop a API, once API I deployed it on the Heroku Webserver.
+After training and validating the model I have used flask framework to develop an API, once API I deployed it on the Heroku Webserver.
 
